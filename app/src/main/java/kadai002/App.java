@@ -6,7 +6,6 @@ package kadai002;
 public class App {
     public String getGreeting() {
         String str1 = "Hello";
-        String str2 = null;
         str2.compareTo(str1);
         return "Hello World!";
     }
